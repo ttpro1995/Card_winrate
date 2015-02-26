@@ -1,3 +1,5 @@
+#Thai Thien
+#APCS 13CTT
 
 win_rate<-function(input_file,input_name){
 

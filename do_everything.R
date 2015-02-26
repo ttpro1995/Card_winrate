@@ -1,4 +1,6 @@
 source('function_win_rate.R')
+#Thai Thien
+#APCS 13CTT
 
 win_rate("input/winlog1.csv",1)
 win_rate("input/winlog2.csv",2)

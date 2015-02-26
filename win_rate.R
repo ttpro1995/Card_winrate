@@ -1,4 +1,6 @@
 
+#Thai Thien
+#APCS 13CTT
 
 input_file<-file("input/winlog0.csv")
 input_name<-c("0")
